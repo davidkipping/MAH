@@ -1,10 +1,6 @@
 # MAH
 Calculate the posterior distribution of the "minimum atmospheric height" (MAH) of an exoplanet by inputting the joint posterior distribution of the mass and radius.
 
-= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
-= = = = = = = = = = = = = = = = = = = MAH = = = = = = = = = = = = = = = = = = = 
-= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-
 README file by David Kipping, Columbia University, Dept. of Astronomy
 (d.kipping at columbia.edu). Please feel free to contact me regarding
 questions on MAH or any bugs you may spot.
